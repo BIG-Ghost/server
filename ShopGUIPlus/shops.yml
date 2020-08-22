@@ -41,7 +41,7 @@ shops:
         item:
           material: COBBLESTONE
           quantity: 32
-        buyPrice: 200
+        buyPrice: 32
         sellPrice: 6
         slot: 13   
       5:
@@ -89,7 +89,7 @@ shops:
         item:
           material: DIRT  
           quantity: 32
-        buyPrice: 100
+        buyPrice: 32
         sellPrice: 10
         slot: 21      
       12:
@@ -145,7 +145,7 @@ shops:
         item:
           material: SAND
           quantity: 64
-        buyPrice: 300
+        buyPrice: 64
         sellPrice: 20
         slot: 30
       19:
@@ -153,7 +153,7 @@ shops:
         item:
           material: red_sand
           quantity: 64
-        buyPrice: 300
+        buyPrice: 64
         sellPrice: 20
         slot: 31
       20:
