@@ -109,7 +109,7 @@ fine-tuning:
     item-drop: 0.25
 
     # Expected: [Double], Default: [0.1]
-    xp-drop: 0.25
+    xp-drop: 0.2
 
   # Should the creature's nametag be removed on death?
   # Expected: [Boolean], Default: [false]
@@ -121,7 +121,7 @@ fine-tuning:
   custom-name-visible: false
 
 # Spawn Distance Levelling
-spawn-distance-levelling: 
+spawn-distance-levelling:
 
   # Should monsters level depending on distance to spawn?
   # Expected: [Boolean], Default: [false]
