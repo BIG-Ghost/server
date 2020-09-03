@@ -38,7 +38,9 @@ blacklisted-types:
   - 'ENDER_DRAGON'
   - 'WITHER'
   - 'RAVAGER'
-# - 'BABY_ZOMBIE'
+  - 'CREEPER'
+  - 'GUARDIAN'
+  - 'BABY_ZOMBIE'
 
 # Blacklisted Types Override: The mobs in here will be levelled regardless if they are included in 'blacklisted-types' or if 'level-passive' is true.
 # Shulkers are added by default as for some reason they aren't considered hostile mobs.
@@ -81,7 +83,7 @@ fine-tuning:
 
   # The maximum level possible for all mobs (unless overriden)
   # Expected: [Integer], Default: [10]
-  max-level: 10
+  max-level: 8
 
   # Since the vanilla damage is pretty weak, you can increase its base value here.
   # The default adds 1 extra point to the attack damage attribute.
@@ -92,22 +94,22 @@ fine-tuning:
   multipliers:
 
     # Expected: [Double], Default: [0.055]
-    movement-speed: 0.055
+    movement-speed: 0.045
 
     # Expected: [Double], Default: [0.06]
-    max-health: 0.06
+    max-health: 0.05
 
     # Expected: [Double], Default: [0.3]
-    attack-damage: 0.3
+    attack-damage: 0.2
 
     # Expected: [Double], Default: [0.2]
-    ranged-attack-damage: 0.2
+    ranged-attack-damage: 0.15
 
     # Expected: [Double], Default: [0.16]
-    item-drop: 0.16
+    item-drop: 0.25
 
     # Expected: [Double], Default: [0.1]
-    xp-drop: 0.1
+    xp-drop: 0.2
 
   # Should the creature's nametag be removed on death?
   # Expected: [Boolean], Default: [false]
@@ -123,7 +125,7 @@ spawn-distance-levelling:
 
   # Should monsters level depending on distance to spawn?
   # Expected: [Boolean], Default: [false]
-  active: false
+  active: true
 
   # Should the level be able to randomly increase or decrease (within min/max limits) for variation?
   variance:
@@ -143,14 +145,14 @@ spawn-distance-levelling:
   # The level will be increased by 1 per the number defined below.
   # By default, every 200 blocks, the mob's level will increase by 1.
   # Expected: [Integer], Default: [200]
-  increase-level-distance: 200
+  increase-level-distance: 500
   
   # What distance should we start adding levels to mobs?
   # Any mob who spawns under this distance will be level 1 (plus variance if set true)
   # This is only the start so for example, if your increase-level-distance is 200
   # and this value is 1000, mobs won't be level 2 until 1200 blocks out.
   # Expected: [Integer], Default: [0]
-  start-distance: 0
+  start-distance: 500
 
 # If you want to force an entity type to have a different minimum/maximum level then you can do that here
 # These settings are further overriden by 'world-level-override'
