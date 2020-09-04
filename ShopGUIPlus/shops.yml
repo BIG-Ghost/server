@@ -278,7 +278,7 @@ shops:
           material: sea_lantern
           quantity: 8
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 5
         slot: 14
         page: 2                                                                                                                                            
       47:
@@ -287,7 +287,7 @@ shops:
           material: SPONGE
           quantity: 1
         buyPrice: 10000
-        sellPrice: -1 
+        sellPrice: 500 
         slot: 15
         page: 2
       48:
@@ -332,7 +332,7 @@ shops:
           material: redstone_lamp
           quantity: 16
         buyPrice: 320
-        sellPrice: -1 
+        sellPrice: 10 
         slot: 22
         page: 2
       53:
@@ -341,7 +341,7 @@ shops:
           material: slime_block
           quantity: 1
         buyPrice: 450
-        sellPrice: -1 
+        sellPrice: 50 
         slot: 23
         page: 2
       200:
@@ -350,7 +350,7 @@ shops:
           material: smooth_sandstone
           quantity: 16
         buyPrice: 350
-        sellPrice: -1 
+        sellPrice: 6 
         slot: 24
         page: 2
       201:
@@ -359,7 +359,7 @@ shops:
           material: smooth_stone
           quantity: 16
         buyPrice: 400
-        sellPrice: -1 
+        sellPrice: 7 
         slot: 25
         page: 2
       202:
@@ -368,7 +368,7 @@ shops:
           material: smooth_red_sandstone
           quantity: 16
         buyPrice: 400
-        sellPrice: -1 
+        sellPrice: 7 
         slot: 28
         page: 2
       203:
@@ -377,7 +377,7 @@ shops:
           material: chiseled_quartz_block
           quantity: 16
         buyPrice: 450
-        sellPrice: -1 
+        sellPrice: 8 
         slot: 29
         page: 2
       204:
@@ -386,7 +386,7 @@ shops:
           material: quartz_pillar
           quantity: 16
         buyPrice: 500
-        sellPrice: -1 
+        sellPrice: 8 
         slot: 30
         page: 2                                                                                          
       #Green Stained Glass from here
@@ -2329,7 +2329,7 @@ shops:
           material: cobblestone_wall  
           quantity: 32
         buyPrice: 250
-        sellPrice: -1
+        sellPrice: 10
         slot: 10
        2:
         type: item
@@ -2353,7 +2353,7 @@ shops:
           material: ANVIL
           quantity: 1
         buyPrice: 4000
-        sellPrice: -1
+        sellPrice: 200
         slot: 13
        5:
         type: item
@@ -2361,7 +2361,7 @@ shops:
           material: ender_chest 
           quantity: 1
         buyPrice: 3000
-        sellPrice: -1
+        sellPrice: 150
         slot: 14   
        6:
         type: item
@@ -2369,7 +2369,7 @@ shops:
           material: CHEST   
           quantity: 10
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 10
         slot: 15    
        7:
         type: item
@@ -2377,7 +2377,7 @@ shops:
           material: trapped_chest         
           quantity: 10       
         buyPrice: 350
-        sellPrice: -1
+        sellPrice: 15
         slot: 16    
        8:
         type: item
@@ -2385,7 +2385,7 @@ shops:
           material: furnace     
           quantity: 10
         buyPrice: 250
-        sellPrice: -1
+        sellPrice: 10
         slot: 19
        9:
         type: item
@@ -2393,7 +2393,7 @@ shops:
           material: crafting_table    
           quantity: 1
         buyPrice: 25
-        sellPrice: -1
+        sellPrice: 2
         slot: 20 
        10:
         type: item
@@ -2401,7 +2401,7 @@ shops:
           material: jukebox   
           quantity: 1
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 21
        11:
         type: item
@@ -2409,7 +2409,7 @@ shops:
           material: note_block      
           quantity: 1
         buyPrice: 250
-        sellPrice: -1
+        sellPrice: 20
         slot: 22    
        12:
         type: item
@@ -2417,7 +2417,7 @@ shops:
           material: flower_pot        
           quantity: 1
         buyPrice: 50
-        sellPrice: -1
+        sellPrice: 5
         slot: 23
        13:
         type: item
@@ -2425,7 +2425,7 @@ shops:
           material: ladder       
           quantity: 16
         buyPrice: 480
-        sellPrice: -1
+        sellPrice: 10
         slot: 24
        16:
         type: item
@@ -2433,7 +2433,7 @@ shops:
           material: nether_brick_fence       
           quantity: 32
         buyPrice: 500
-        sellPrice: -1
+        sellPrice: 100
         slot: 29
        18:
         type: item
@@ -2441,7 +2441,7 @@ shops:
           material: iron_door       
           quantity: 1
         buyPrice: 600
-        sellPrice: -1
+        sellPrice: 50
         slot: 31
        21:
         type: item
@@ -2449,7 +2449,7 @@ shops:
           material: red_bed       
           quantity: 1
         buyPrice: 50
-        sellPrice: -1
+        sellPrice: 5
         slot: 34
        22:
         type: item
@@ -2457,7 +2457,7 @@ shops:
           material: item_frame      
           quantity: 16
         buyPrice: 100
-        sellPrice: -1
+        sellPrice: 5
         slot: 37
        23:
         type: item
@@ -2465,7 +2465,7 @@ shops:
           material: painting       
           quantity: 10
         buyPrice: 550
-        sellPrice: -1
+        sellPrice: 20         
         slot: 38
        24:
         type: item
@@ -2473,7 +2473,7 @@ shops:
           material: armor_stand      
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 20
         slot: 39
        25:
         type: item
@@ -2489,7 +2489,7 @@ shops:
           material: iron_bars       
           quantity: 8
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 20
         slot: 41
        27:
         type: item
@@ -2497,7 +2497,7 @@ shops:
           material: skeleton_skull       
           quantity: 1
         buyPrice: 500
-        sellPrice: -1
+        sellPrice: 50
         slot: 42
        28:
         type: item
@@ -2505,7 +2505,7 @@ shops:
           material: zombie_head      
           quantity: 1
         buyPrice: 500
-        sellPrice: -1
+        sellPrice: 40
         slot: 43
        29:
         type: item
@@ -2513,7 +2513,7 @@ shops:
           material: firework_star       
           quantity: 1
         buyPrice: 100
-        sellPrice: -1
+        sellPrice: 5
         slot: 10
         page: 2
        30:
@@ -2522,7 +2522,7 @@ shops:
           material: RED_DYE      
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 11
         page: 2
        31:
@@ -2531,7 +2531,7 @@ shops:
           material: GREEN_DYE     
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 12
         page: 2
        32:
@@ -2540,7 +2540,7 @@ shops:
           material: COCOA_BEANS     
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 15
         slot: 13
         page: 2
        33:
@@ -2549,7 +2549,7 @@ shops:
           material: LAPIS_LAZULI      
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 50
         slot: 14
         page: 2
        34:
@@ -2558,7 +2558,7 @@ shops:
           material: PURPLE_DYE       
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 15
         page: 2
        35:
@@ -2567,7 +2567,7 @@ shops:
           material: CYAN_DYE     
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 16
         page: 2
        36:
@@ -2576,7 +2576,7 @@ shops:
           material: LIGHT_GRAY_DYE      
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 19
         page: 2
        37:
@@ -2585,7 +2585,7 @@ shops:
           material: GRAY_DYE     
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 20
         page: 2
        38:
@@ -2594,7 +2594,7 @@ shops:
           material: PINK_DYE      
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 21
         page: 2
        39:
@@ -2603,7 +2603,7 @@ shops:
           material: LIME_DYE      
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 22
         page: 2
        40:
@@ -2612,7 +2612,7 @@ shops:
           material: YELLOW_DYE      
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 23
         page: 2
        41:
@@ -2621,7 +2621,7 @@ shops:
           material: LIGHT_BLUE_DYE     
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 24
         page: 2
        42:
@@ -2630,7 +2630,7 @@ shops:
           material: MAGENTA_DYE      
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 25
         page: 2
        43:
@@ -2639,7 +2639,7 @@ shops:
           material: ORANGE_DYE       
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 28
         page: 2
        44:
@@ -2648,7 +2648,7 @@ shops:
           material: BONE_MEAL   
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 15
         slot: 29
         page: 2
        45:
@@ -2657,7 +2657,7 @@ shops:
           material: white_wool       
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 30
         page: 2
        46:
@@ -2666,7 +2666,7 @@ shops:
           material: orange_wool     
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 31
         page: 2
        47:
@@ -2675,7 +2675,7 @@ shops:
           material: magenta_wool     
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 32
         page: 2
        48:
@@ -2684,7 +2684,7 @@ shops:
           material: light_blue_wool      
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 33
         page: 2
        49:
@@ -2693,7 +2693,7 @@ shops:
           material: yellow_wool      
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 34
         page: 2
        50:
@@ -2703,7 +2703,7 @@ shops:
           damage: 5       
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 37
         page: 2
        51:
@@ -2712,7 +2712,7 @@ shops:
           material: pink_wool      
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 38
         page: 2
        52:
@@ -2721,7 +2721,7 @@ shops:
           material: gray_wool     
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 39
         page: 2
        53:
@@ -2730,7 +2730,7 @@ shops:
           material: light_gray_wool     
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 40
         page: 2
        54:
@@ -2739,7 +2739,7 @@ shops:
           material: cyan_wool     
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 41
         page: 2
        55:
@@ -2748,7 +2748,7 @@ shops:
           material: purple_wool      
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 42
         page: 2
        56:
@@ -2757,7 +2757,7 @@ shops:
           material: blue_wool      
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 43
         page: 2
        57:
@@ -2766,7 +2766,7 @@ shops:
           material: brown_wool       
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 10
         page: 3
        58:
@@ -2775,7 +2775,7 @@ shops:
           material: green_wool     
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 11
         page: 3
        59:
@@ -2784,7 +2784,7 @@ shops:
           material: red_wool     
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 12
         page: 3
        60:
@@ -2793,7 +2793,7 @@ shops:
           material: black_wool    
           quantity: 32
         buyPrice: 300
-        sellPrice: -1
+        sellPrice: 20
         slot: 13
         page: 3
        61:
@@ -3126,7 +3126,7 @@ shops:
           material: creeper_head     
           quantity: 1
         buyPrice: 500
-        sellPrice: -1
+        sellPrice: 200
         slot: 22
         page: 4
        144:
@@ -3135,7 +3135,7 @@ shops:
           material: wither_skeleton_skull      
           quantity: 1
         buyPrice: 10000
-        sellPrice: -1
+        sellPrice: 1000
         slot: 23
         page: 4
        145:
@@ -3145,7 +3145,7 @@ shops:
           damage: 0       
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 24
         page: 4
        146:
@@ -3779,7 +3779,7 @@ shops:
           material: gunpowder
           quantity: 4
         buyPrice: 250
-        sellPrice: -1
+        sellPrice: 10
         slot: 11
        3:
         type: item
@@ -3795,7 +3795,7 @@ shops:
           material: spider_eye
           quantity: 4
         buyPrice: 100
-        sellPrice: 5
+        sellPrice: 10
         slot: 13 
        5:
         type: item
@@ -3811,7 +3811,7 @@ shops:
           material: arrow 
           quantity: 16
         buyPrice: 250
-        sellPrice: 4
+        sellPrice: 25
         slot: 15    
        7:
         type: item
@@ -3819,7 +3819,7 @@ shops:
           material: bone  
           quantity: 8
         buyPrice: 100
-        sellPrice: 4
+        sellPrice: 10
         slot: 16      
        8:
         type: item
@@ -3827,7 +3827,7 @@ shops:
           material: slime_ball
           quantity: 4
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 20
         slot: 19      
        9:
         type: item
@@ -3843,7 +3843,7 @@ shops:
           material: leather
           quantity: 8
         buyPrice: 100
-        sellPrice: 4
+        sellPrice: 10
         slot: 21
        11:
         type: item
@@ -3859,7 +3859,7 @@ shops:
           material: rabbit_foot
           quantity: 4
         buyPrice: 200
-        sellPrice: 12
+        sellPrice: 15
         slot: 23
        13:
         type: item
@@ -3955,7 +3955,7 @@ shops:
           material: ink_sac
           quantity: 16
         buyPrice: 200
-        sellPrice: -1
+        sellPrice: 10
         slot: 39
        25:
         type: item
@@ -3963,7 +3963,7 @@ shops:
           material: ghast_tear
           quantity: 1
         buyPrice: 50
-        sellPrice: 8
+        sellPrice: 10
         slot: 40          
         #Green Stained Glass from here
        95:
